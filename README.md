@@ -1,16 +1,19 @@
-# get_roasted
+# GET ROASTED
 
-Get Roasted
+Get Roasted is a cross platform app made using Flutter which 'roasts' you on a picture you upload.
 
-## Getting Started
+## FEATURES
 
-This project is a starting point for a Flutter application.
+ - Random roast on picture
+ - Share image 
+ - get new random roast
+ 
+## ROADMAP
 
-A few resources to get you started if this is your first Flutter project:
+ - Image Filter's on images
+ - Anoymous Roast Arenas
+ - Image based roasts through CNNs
+ 
+## CONTACTS
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - email: jainshlok20@gmail.com
